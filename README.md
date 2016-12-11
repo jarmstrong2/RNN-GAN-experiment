@@ -1,5 +1,6 @@
 # RNN_GAN_experiment
 Using the MNIST set to experiment with GANs using RNNs
+
 ![alt text](https://github.com/jarmstrong2/RNN_GAN_experiment/blob/master/images/faster_transition_smaller.gif)
 
 Model
