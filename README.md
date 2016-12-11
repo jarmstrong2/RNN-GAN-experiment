@@ -1,4 +1,4 @@
-# RNN_GAN_experiment
+# RNN GAN Experiment
 Using the MNIST set to experiment with GANs using RNNs (code provided uses TensorFlow)
 
 ![alt text](https://github.com/jarmstrong2/RNN_GAN_experiment/blob/master/images/faster_transition_smaller.gif)
