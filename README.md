@@ -51,9 +51,9 @@ Experiments
 |![alt tag](full_mod_aug_8/im0_9.png)|![alt tag](full_mod_aug_8/im1_9.png)|![alt tag](full_mod_aug_8/im2_9.png)|![alt tag](full_mod_aug_8/im3_9.png)|![alt tag](full_mod_aug_8/im4_9.png)|![alt tag](full_mod_aug_8/im5_9.png)|![alt tag](full_mod_aug_8/im6_9.png)|![alt tag](full_mod_aug_8/im7_9.png)|![alt tag](full_mod_aug_8/im8_9.png)|![alt tag](full_mod_aug_8/im9_9.png)|
 |![alt tag](full_mod_aug_8/im0_10.png)|![alt tag](full_mod_aug_8/im1_10.png)|![alt tag](full_mod_aug_8/im2_10.png)|![alt tag](full_mod_aug_8/im3_10.png)|![alt tag](full_mod_aug_8/im4_10.png)|![alt tag](full_mod_aug_8/im5_10.png)|![alt tag](full_mod_aug_8/im6_10.png)|![alt tag](full_mod_aug_8/im7_10.png)|![alt tag](full_mod_aug_8/im8_10.png)|![alt tag](full_mod_aug_8/im9_10.png)|
 
-![alt tag](loss_full_aug_8.png)
+![alt tag](full_mod_aug_8/loss_full_aug_8.png)
 
-![alt tag](classification_full_aug_8.png)
+![alt tag](full_mod_aug_8/classification_full_aug_8.png)
 
 ### TIMESTEP MODEL
 
